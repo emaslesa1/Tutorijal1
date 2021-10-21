@@ -19,12 +19,6 @@ public class Lopta {
     public void setPoluprecnik(double poluprecnik) {
         this.poluprecnik = poluprecnik;
     }
-    public boolean isIme(){
-        return
-    }
 
-    public Lopta(String naziv, double poluprecnik) {
-        this.naziv = naziv;
-        this.poluprecnik = poluprecnik;
-    }
+
 }
